@@ -1,0 +1,1 @@
+SELECT * FROM db_teste_trigger.funcionarios;
